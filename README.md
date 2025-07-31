@@ -24,3 +24,12 @@ Deleting Kubecost
 To uninstall Kubecost and its dependencies, run the following command:
 
 helm uninstall kubecost -n kubecost
+# Application 
+<img width="1920" height="1080" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/6d25f6b8-8ada-4ee9-bc3e-de5481045670" />
+# Resources in K8S 
+<img width="1920" height="1080" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/e0fded2b-d0b1-4a24-8f27-665497b8dda9" />
+# KubeCost Monitor
+<img width="1920" height="1080" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/f71d5885-8841-4193-94ab-37c4c82fc58c" />
+# KubeCost Overview
+<img width="1920" height="1080" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/4f130fe1-390f-48b4-80f2-cebd2179ab77" />
+
